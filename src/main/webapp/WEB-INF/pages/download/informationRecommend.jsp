@@ -22,13 +22,13 @@
 			<div class='h_btm'>
 				<div class='cssmenu'>
 					<ul>
-						<li><a href='${pageContext.request.getContextPath()}/new/home'><span>首页</span></a></li>
-						<li><a href='${pageContext.request.getContextPath()}/new/direction'><span>研究方向</span></a></li>
-						<li><a href='${pageContext.request.getContextPath()}/new/team'><span>科研团队</span></a></li>
-						<li><a href='${pageContext.request.getContextPath()}/new/researchProject'><span>科研项目</span></a></li>
+						<li><a href='${pageContext.request.getContextPath()}/home'><span>首页</span></a></li>
+						<li><a href='${pageContext.request.getContextPath()}/direction'><span>研究方向</span></a></li>
+						<li><a href='${pageContext.request.getContextPath()}/team'><span>科研团队</span></a></li>
+						<li><a href='${pageContext.request.getContextPath()}/researchProject'><span>科研项目</span></a></li>
 						<li class='has-sub'><a href='${pageContext.request.getContextPath()}/scholar/patent'><span>学术成果</span></a></li>
-						<li><a href='${pageContext.request.getContextPath()}/new/successResult'><span>竞赛获奖</span></a></li>
-						<li class='last active'><a href='${pageContext.request.getContextPath()}/new/download'><span>下载中心</span></a></li>
+						<li><a href='${pageContext.request.getContextPath()}/successResult'><span>竞赛获奖</span></a></li>
+						<li class='last active'><a href='${pageContext.request.getContextPath()}/download'><span>下载中心</span></a></li>
 						<div class="clear"></div>
 					</ul>
 				</div>

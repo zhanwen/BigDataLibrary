@@ -17,7 +17,7 @@ import java.util.Map;
  * @Date: 2018/4/20 上午10:21
  */
 @Controller
-@RequestMapping("/new")
+@RequestMapping("/")
 public class UploadController {
 
     @Autowired
