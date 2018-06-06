@@ -6,7 +6,297 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f5da609-3653-48be-aab7-477f919e0929" name="Default" comment="" />
+    <list default="true" id="0f5da609-3653-48be-aab7-477f919e0929" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/academicDissertations.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/academicDissertations.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/direction.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/direction.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/bigDataDig.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/bigDataDig.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/computerVision.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/computerVision.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/deepLearning.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/deepLearning.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/informationRecommend.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/informationRecommend.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/machineLearn.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/machineLearn.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/nlp.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/nlp.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchPages.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchPages.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchProject.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchProject.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2013.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2013.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2014.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2014.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2015.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2015.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2016.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2016.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2013.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2013.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2014.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2014.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2015.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2015.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2016.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2016.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/softwareCopyright.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/softwareCopyright.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successResult.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successResult.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/team.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/team.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/CHANGES.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/adapters/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/build-config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/ckeditor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/contents.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/af.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/bg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/bn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/bs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/cs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/cy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/da.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/el.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/en-au.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/en-ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/en-gb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/en.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/eo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/et.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/eu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/fa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/fi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/fo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/fr-ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/gl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/gu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/he.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/hi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/hr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/hu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/id.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/is.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/ja.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/ka.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/km.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/ko.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/ku.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/lt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/lv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/mk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/mn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/ms.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/nb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/nl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/no.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/pl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/pt-br.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/pt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/ro.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/si.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/sk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/sl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/sq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/sr-latn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/sr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/sv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/th.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/tr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/ug.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/uk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/vi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/zh-cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/lang/zh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/about/dialogs/about.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/about/dialogs/logo_ckeditor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/clipboard/dialogs/paste.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/dialog/dialogDefinition.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/fakeobjects/images/spacer.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/icons.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/icons_hidpi.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/image/dialogs/image.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/image/images/noimage.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/link/dialogs/anchor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/link/dialogs/link.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/link/images/anchor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/link/images/hidpi/anchor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/magicline/images/hidpi/icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/magicline/images/icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/pastefromword/filter/default.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/scayt/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/scayt/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/scayt/dialogs/options.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/scayt/dialogs/toolbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/bg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/cs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/cy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/el.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/en.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/eo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/et.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/fa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/fi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/gl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/he.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/hr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/hu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/id.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/ja.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/ku.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/lv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/nb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/nl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/no.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/pl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/pt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/si.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/sk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/sl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/sq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/sv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/th.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/tr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/ug.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/uk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/vi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/table/dialogs/table.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/wsc/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/wsc/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/wsc/dialogs/ciframe.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/wsc/dialogs/tmp.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/wsc/dialogs/wsc.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/wsc/dialogs/wsc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/plugins/wsc/dialogs/wsc_ie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/ajax.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/api.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/appendto.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/assets/inlineall/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/assets/outputxhtml/outputxhtml.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/assets/posteddata.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/assets/sample.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/assets/sample.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/assets/uilanguages/languages.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/datafiltering.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/divreplace.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/inlineall.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/inlinebycode.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/inlinetextarea.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/jquery.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/plugins/dialog/assets/my_dialog.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/plugins/dialog/dialog.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/plugins/enterkey/enterkey.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.fla" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.swf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/swfobject.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/plugins/htmlwriter/outputforflash.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/plugins/htmlwriter/outputhtml.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/plugins/magicline/magicline.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/plugins/toolbar/toolbar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/plugins/wysiwygarea/fullpage.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/readonly.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/replacebyclass.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/replacebycode.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/sample.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/sample.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/sample_posteddata.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/tabindex.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/uicolor.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/uilanguages.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/samples/xhtmlstyle.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/dialog.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/dialog_ie.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/dialog_ie7.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/dialog_ie8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/dialog_iequirks.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/dialog_opera.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/editor.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/editor_gecko.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/editor_ie.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/editor_ie7.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/editor_ie8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/editor_iequirks.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/icons.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/icons_hidpi.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/images/arrow.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/images/close.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/images/hidpi/close.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/images/hidpi/lock-open.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/images/hidpi/lock.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/images/hidpi/refresh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/images/lock-open.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/images/lock.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/images/refresh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/skins/moono/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/ckeditor/styles.js" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +306,108 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="researchPages.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchPages.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scholar.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="37" column="33" lean-forward="false" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="successResult.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successResult.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="44" column="19" lean-forward="false" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="download.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="team.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/team.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="academic2013.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2013.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="academic2014.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2014.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="academic2015.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2015.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="academic2016.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2016.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,36 +436,36 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/ScholarController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/softwareCopyright.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/team.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/direction.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/cn/shnu/ssm/pojo/FileBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/FileController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/cn/shnu/ssm/dao/FileDao.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/fileList.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/static/css/style.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addFile.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/nlp.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchProject.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successResult.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/softwareCopyright.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchPages.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2016.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2015.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2014.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2013.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/academicDissertations.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2016.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2015.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2014.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2013.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/bigDataDig.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/computerVision.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/deepLearning.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/informationRecommend.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/machineLearn.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/nlp.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/academicDissertations.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/direction.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchProject.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchPages.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/softwareCopyright.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/team.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2016.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2015.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2014.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2013.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2013.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2014.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2015.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2016.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successResult.jsp" />
       </list>
     </option>
   </component>
@@ -113,7 +504,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,15 +542,6 @@
               <item name="BigDataLibrary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataLibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BigDataLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -168,42 +549,7 @@
               <item name="BigDataLibrary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataLibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BigDataLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataLibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BigDataLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataLibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BigDataLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataLibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BigDataLibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="new" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BigDataLibrary" type="b2602c69:ProjectViewProjectNode" />
@@ -213,13 +559,33 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BigDataLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigDataLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigDataLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigDataLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="scholar" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -438,14 +804,19 @@
       <workItem from="1524377266214" duration="1323000" />
       <workItem from="1524468476514" duration="3779000" />
       <workItem from="1524529661515" duration="1058000" />
+      <workItem from="1528036001635" duration="169000" />
+      <workItem from="1528181438686" duration="24000" />
+      <workItem from="1528181466270" duration="9000" />
+      <workItem from="1528264618794" duration="1000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20222000" />
+    <option name="totallyTimeSpent" value="21424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="23" width="1382" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.50289434" order="7" side_tool="true" content_ui="tabs" />
@@ -458,9 +829,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49710566" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.49710566" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.293617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29219857" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -469,7 +840,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -494,7 +865,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -502,13 +873,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/nlp.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="51" column="83" lean-forward="true" selection-start-line="51" selection-start-column="83" selection-end-line="51" selection-end-column="83" />
-          <folding>
-            <element signature="e#4830#4836#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -516,7 +899,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="52" column="44" lean-forward="false" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -582,30 +964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/team.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/direction.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/contact.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -682,184 +1040,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchProject.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="55" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successResult.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="64" column="107" lean-forward="false" selection-start-line="64" selection-start-column="107" selection-end-line="64" selection-end-column="107" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="70" column="41" lean-forward="true" selection-start-line="67" selection-start-column="36" selection-end-line="70" selection-end-column="41" />
-          <folding>
-            <marker date="1524470756000" expanded="false" signature="2540:2556" ph="..." />
-            <marker date="1524470756000" expanded="false" signature="2579:2595" ph="..." />
-            <marker date="1524470756000" expanded="false" signature="2610:2628" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/softwareCopyright.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchPages.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2016.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="70" column="193" lean-forward="false" selection-start-line="70" selection-start-column="193" selection-end-line="70" selection-end-column="193" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2015.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2014.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2013.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="69" column="36" lean-forward="false" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/academicDissertations.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="69" column="36" lean-forward="false" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2016.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="69" column="36" lean-forward="false" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2015.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2014.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2013.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="69" column="32" lean-forward="true" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/computerVision.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="67" column="65" lean-forward="false" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/deepLearning.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="67" column="60" lean-forward="false" selection-start-line="67" selection-start-column="60" selection-end-line="67" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/informationRecommend.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="67" column="75" lean-forward="false" selection-start-line="67" selection-start-column="75" selection-end-line="67" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/machineLearn.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="67" column="63" lean-forward="false" selection-start-line="67" selection-start-column="63" selection-end-line="67" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/UploadController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="74" column="62" lean-forward="true" selection-start-line="74" selection-start-column="62" selection-end-line="74" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/nlp.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="51" column="83" lean-forward="false" selection-start-line="51" selection-start-column="83" selection-end-line="51" selection-end-column="83" />
-          <folding>
-            <element signature="e#4830#4836#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="44" column="6" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/bigDataDig.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="52" column="44" lean-forward="false" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -869,13 +1053,221 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/contact.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-463">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/nlp.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="29" column="114" lean-forward="false" selection-start-line="29" selection-start-column="114" selection-end-line="29" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/machineLearn.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="29" column="114" lean-forward="false" selection-start-line="29" selection-start-column="114" selection-end-line="29" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/informationRecommend.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="29" column="122" lean-forward="false" selection-start-line="29" selection-start-column="122" selection-end-line="29" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/deepLearning.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="29" column="114" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="29" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/computerVision.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="29" column="130" lean-forward="false" selection-start-line="29" selection-start-column="130" selection-end-line="29" selection-end-column="130" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/bigDataDig.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="29" column="138" lean-forward="false" selection-start-line="29" selection-start-column="138" selection-end-line="29" selection-end-column="138" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/academicDissertations.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/direction.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchProject.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchPages.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="37" column="33" lean-forward="false" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/softwareCopyright.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="37" column="33" lean-forward="false" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2015.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="40" column="33" lean-forward="false" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2016.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="40" column="33" lean-forward="false" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2014.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="40" column="33" lean-forward="false" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2013.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/team.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2013.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2014.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2015.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2016.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successResult.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="44" column="19" lean-forward="false" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>BigDataLibrary</last-edited>
+          <last-edited>BigDataLibrary:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
