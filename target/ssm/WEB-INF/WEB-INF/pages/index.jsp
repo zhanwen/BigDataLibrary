@@ -88,7 +88,10 @@
 				<div class="grid_1_of_3 images_1_of_3">
 					  <img src="${pageContext.request.getContextPath()}/static/images/new/icon3.jpg">
 					  <h3>高效产出</h3>
-					  <p>高效率的人生，不要自我限制，也不要自我满足。自我限制是低估自己的能力，自我满足是人生的死海。人的生命非常珍贵有限，试着享受高效率的生活，让生命更有活力更有价值</p>
+					  <p>高效率的人生，不要自我限制，也不要自我满</p>
+					  <p>足。自我限制是低估自己的能力，自我满足是</p>
+					  <p>人生的死海。人的生命非常珍贵有限，试着享</p>
+					  <p>受高效率的生活，让生命更有活力更有价值</p>
 				</div>
 				<div class="clear"></div>
 			</div>
@@ -99,12 +102,13 @@
 <div class="wrap">
 <div class="main">
 	<div class="content">
-		<h2>实验室简介 <a href="${pageContext.request.getContextPath()}/new/team" style="float: right; font-size: 20px; color: #a5a5a5;">更多>></a></h2>
-		<h3>大数据和物联网实验室</h3>
+		<h2>实验室简介 <a href="${pageContext.request.getContextPath()}/team" style="float: right; font-size: 20px; color: #a5a5a5;">更多>></a></h2>
+		<h3>智能大数据与物联网实验室</h3>
 		<p>
 			<a href="details.html"><img src="${pageContext.request.getContextPath()}/static/images/new/pic1.jpg"></a><br><br>
-			上海师范大学大数据和物联网实验室成立于200x年，经过多年的发展，已经成长为上海师范大学计算机学科建设的一支重要力量。 研究室现有教授1名，副教授x名，讲师x名，在校硕士生 x 名
-			上海师范大学大数据和物联网实验室成立于200x年，经过多年的发展，已经成长为上海师范大学计算机学科建设的一支重要力量。 研究室现有教授1名，副教授x名，讲师x名，在校硕士生 x 名
+			智能大数据与物联网实验室团队所在计算机系长期以来从事大数据分析相关研究工作，团队组成合理，骨干成员具有多个项目主持和参与经验。团队核心成员具有多项国家自然科学基金、
+			国家863计划项目主持和参与经验，这些研究使其积累了丰富的企业新技术采纳与评价研究经验。团队骨干成员长期共事，已合作完成国家自然科学基金项目、
+			上海市教委创新项目等多个国家、省部级项目，具有丰富的合作经验以及良好的合作关系。团队成员在实验室中发挥非常重要的方向探讨、技术攻关和思路创新作用，具备非常良好前景。
 		</p>
 		<div class="clear"></div>
 	</div>
@@ -114,32 +118,35 @@
 	<div class="wrap">
 		 <div class="main">
 					<div class="content">
-						<h2>研究方向 <a href="${pageContext.request.getContextPath()}/new/direction" style="float: right; font-size: 20px; color: #a5a5a5;">更多>></a></h2>
+						<h2>研究方向 <a href="${pageContext.request.getContextPath()}/direction" style="float: right; font-size: 20px; color: #a5a5a5;">更多>></a></h2>
 						<br>
 					</div>
 			 <div class="box1">
-				 <h4 class="btm">智能</h4>
+				 <h4 class="btm">机器学习</h4>
 				 <div class="box1_address">
-					 <p>研究情境感知计算和智能服务的基础理论和方法
-					 包括：情境元模型、基于大数据的情境模型演化、情境推理、 服务发现、服务组合、服务推荐等，以及面向健康养老、生产性服务、互联网教育、公共安全等领域的情境感知计算、智能服务等关键技术和系统。 </p>
+					 <p>主要从事神经网络、分词、半监督学习、聚类集成、推荐算法、知识库等模型构造，在此方面积累了较丰富的经验，具备了较好研究基础。 </p>
 				 </div>
 			 </div>
 			 <div class="box1">
 				 <h4 class="btm">物联网</h4>
 				 <div class="box1_address">
-					 <p>研究大数据、云计算、物联网等新型分</p>
-					 <p>式系统安全的基础理论、方法和关键技,</p>
-					 <p>包括：访问控制、加密共享、 隐私计算、</p>
-					 <p>隔离计算、可信计算和可信溯源等，以</p>
-					 <p>及面向大数据汇聚、交换、共享、分析 </p>
-					 <p>等场景的安全多方计算、安全态势感知、</p>
-					 <p>安全可信评测等关键技术和系统。 </p>
+					 <p>移动互联网技术的研发与应用、移动互联</p>
+					 <p>网平台实践与应用等。</p>
+					 <p>物联网主流技术的应用、无线传感网络技</p>
+					 <p>术、移动互联网技术开发与应用等。</p>
 				 </div>
 			 </div>
 			 <div class="box1">
 				 <h4 class="btm">大数据</h4>
 				 <div class="box1_address">
-					 <p>研究大数据分析与机器学习系统相关的基础理论和方法，研究融合计算智能与群智知识的大规模分布式机器学习系统的优化 方法，以及面向系统运维、人力资源、健康医疗、心理咨询、金融科技、精准推荐等领域的深度学习、增强学习、迁移学习等大数据分析技术和系统。</p>
+					 <p>
+						 海量数据的非结构化存储、实时查询检索
+					 </p>
+					 <p>等，兼容当前主流的查询需求，突破时间</p>
+					 <p>效率瓶颈。网络空间大数据采集与分析、</p>
+					 <p>环境大数据预测、企业大数据管理等。聚</p>
+					 <p>焦于当前大数据研究主要发展、趋势与主</p>
+					 <p>流技术应用等。</p>
 				 </div>
 			 </div>
 			 <div class="clear"> </div>
@@ -150,14 +157,14 @@
 	<div class="wrap">
 	<div class="main">
 		<div class="content">
-			<h2>科研项目 <a href="${pageContext.request.getContextPath()}/new/researchProject" style="float: right; font-size: 20px; color: #a5a5a5;">更多>></a></h2>
+			<h2>科研项目 <a href="${pageContext.request.getContextPath()}/researchProject" style="float: right; font-size: 20px; color: #a5a5a5;">更多>></a></h2>
 			<br>
 			<ul>
-				<li><p><span style="font-size: 14px;">&nbsp;&nbsp;1、国家自然科学基金(71170148)：基于语义计算的高维复杂数据降维理论与实证研究，2012.1-2015.12，。主要参与者（排名3） </span></p></li>
-				<li><p><span style="font-size: 14px;">&nbsp;&nbsp;2、国家科技支撑计划课题(2012BAD35B01-4)：“农村可视化信息资源云服务技术研究”，2012.1-2013.12。主要参与者（排名2）</span></p></li>
-				<li><p><span style="font-size: 14px;">&nbsp;&nbsp;3、国国家自然科学基金（61272268）：“云计算架构下基于语义驱动的信息推荐理论和实证研究”，2013.1-2016.12。主要参与者（排名2）</span></p></li>
-				<li><p><span style="font-size: 14px;">&nbsp;&nbsp;4、2011年上海市科技创新计划(11DZ1501703)：基于金融云的信息服务模式研究及应用，2011.10-2013.9。主要参与者（排名2）。</span></p></li>
-				<li><p><span style="font-size: 14px;">&nbsp;&nbsp;5、国家自然科学基金(61105047): 基于PAM概率主题模型的本体概念及层次结构学习研究，2012.1-2014.12。(排名3)</span></p></li>
+				<li><p><span style="font-size: 14px;">&nbsp;&nbsp;1、国家自然科学基金面上项目(61572326)：动态社交网络中群体情感演化计算与分析关键技术研究，2016.1-2019.12，项目负责人：张波。</span></p></li>
+				<li><p><span style="font-size: 14px;">&nbsp;&nbsp;2、国家自然科学基金青年基金(61103069)：基于信任链的微博群体情感挖掘研究，2012.1-2014.12，项目负责人：张波。</span></p></li>
+				<li><p><span style="font-size: 14px;">&nbsp;&nbsp;3、上海市人民政府决策咨询研究重点课题(2017-A-049-B)：上海新型智慧城市建设路径与模式创新研究，2017.5-2017.8，项目负责人：张波。</span></p></li>
+				<li><p><span style="font-size: 14px;">&nbsp;&nbsp;4、国家自然科学基金青年科学基金项目“基于情感的社交网络信息推荐关键技术研究”（项目编号61702333），项目负责人：赵勤。</span></p></li>
+				<li><p><span style="font-size: 14px;">&nbsp;&nbsp;5、嵌入式系统与服务计算国家教育部重点实验室开放课题：基于情感的混合领域社交网络信息推荐方法研究(项目编号ESSCKF2016-01),项目负责人：赵勤。</span></p></li>
 
 			</ul>
 			<div class="clear"></div>
@@ -169,14 +176,14 @@
 	<div class="wrap">
 		<div class="main">
 			<div class="content">
-				<h2>专利<a href="${pageContext.request.getContextPath()}/new/successResult" style="float: right; font-size: 20px; color: #a5a5a5;">更多>></a></h2>
+				<h2>专利<a href="${pageContext.request.getContextPath()}/scholar/patent" style="float: right; font-size: 20px; color: #a5a5a5;">更多>></a></h2>
 				<br>
 				<ul>
-					<li><p>1、张旱文，基于xxxxxxxxxxxxxxxxxx系统，专利申请号：xxxxxxxxxxxx</p></li>
-					<li><p>2、张旱文，基于xxxxxxxxxxxxxxxxxx系统，专利申请号：xxxxxxxxxxxx</p></li>
-					<li><p>3、张旱文，基于xxxxxxxxxxxxxxxxxx系统，专利申请号：xxxxxxxxxxxx</p></li>
-					<li><p>4、张旱文，基于xxxxxxxxxxxxxxxxxx系统，专利申请号：xxxxxxxxxxxx</p></li>
-					<li><p>5、张旱文，基于xxxxxxxxxxxxxxxxxx系统，专利申请号：xxxxxxxxxxxx</p></li>
+					<li><p>1、张波，李鲁群，李美子。一种社交网络环境中的用户间推荐信任度计算方法，发明专利，已授权，专利号：ZL 201210442457.9。</p></li>
+					<li><p>2、张波,李美子,黄震华,潘建国,潘晓声。一种SOA 下决策系统web 服务能力的计算方法，发明专利，已授权，专利号：ZL201310209986.9。</p></li>
+					<li><p>3、沈益东，张波，黄震华。一种数据仓库中复杂多维层次的连接和聚集算法, 发明专利，已授权，授权号：ZL201010286863.1。</p></li>
+					<li><p>4、张波，李鲁群，李美子。一种语义网中基于本体的信息可信任度评估方法，发明专利，专利受理号：201210359575.3。</p></li>
+					<li><p>5、张波，李美子，颜晶晶。一种社交网络中基于信任的信息推荐方法，发明专利，专利受理号：201310100485.7。</p></li>
 				</ul>
 				<div class="clear"></div>
 			</div>
@@ -191,24 +198,13 @@
 			<br>
 			<ul>
 				<li>
-					<a href="http://blog.csdn.net/hotqin888/article/details/78460385"  target="_blank">1、 beego利用casbin进行权限管理——第一节 起步、测试 （转载）</a>
-				</li>
-				<li>
-					<a href="http://blog.csdn.net/hotqin888/article/details/78571240"  target="_blank">2、 beego利用casbin进行权限管理——第二节 策略存储 （转载）</a>
-				</li>
-				<li>
-					<a href="http://blog.csdn.net/hotqin888/article/details/78992250"  target="_blank">3、 beego利用casbin进行权限管理——第三节 策略查询 （转载）</a>
-				</li>
-				<li>
-					<a href="https://studygolang.com/articles/12323"  target="_blank">4、 在 Go 语言中使用 casbin 实现基于角色的 HTTP 权限控制 （转载）</a>
-				</li>
-				<li>
-					<a href="https://www.v2ex.com/t/391872"  target="_blank">5、 Casbin: 强大的 Go 访问控制、权限管理框架，支持 ACL, RBAC, ABAC （转载）</a>
-				</li>
+					<a href="https://blog.csdn.net/vegetable_bird_001/article/details/52106942"  target="_blank">1、 海量大数据解决方案</a>
 
-				<li>
-					<a href="http://www.sohu.com/a/144394875_609556"  target="_blank">6、 Casbin: 强大的 Go 支持MACRBACABAC多种模型的Golang访问控制框架Casbin （转载）</a>
 				</li>
+				<li>
+					<a href="https://yq.aliyun.com/topic/111"  target="_blank">2、 云栖社区巨献：准受用！最通俗易懂的深度学习入门</a>
+				</li>
+				
 	    	</ul>
 		</div>
 	</div>
@@ -220,7 +216,7 @@
 	<div class="wrap">
 		<div class="footer">
 		<div class="copy">
-			<p class="w3-link">Copyright &copy; 2018 All Rights Reserved 版权所有：上海师范大学大数据和物联网实验室</p>
+			<p class="w3-link">Copyright &copy; 2018 All Rights Reserved 版权所有：智能大数据与物联网实验室</p>
 			<p class="w3-link">联系地址:  上海市奉贤区海湾镇海思路100号</p>
 		</div>
 		<div class="clear"></div>	
