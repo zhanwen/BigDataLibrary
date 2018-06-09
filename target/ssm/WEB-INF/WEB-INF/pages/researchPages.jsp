@@ -129,7 +129,7 @@
 	<div class="wrap">
 		<div class="footer">
 			<div class="copy">
-				<p class="w3-link">Copyright &copy; 2018 All Rights Reserved 版权所有：上海师范大学大数据和物联网实验室</p>
+				<p class="w3-link">Copyright &copy; 2018 All Rights Reserved 版权所有：智能大数据与物联网实验室</p>
 				<p class="w3-link">联系地址:  上海市奉贤区海湾镇海思路100号</p>
 			</div>
 			<div class="clear"></div>

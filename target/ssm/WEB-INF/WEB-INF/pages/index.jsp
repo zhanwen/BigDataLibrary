@@ -204,7 +204,7 @@
 				<li>
 					<a href="https://yq.aliyun.com/topic/111"  target="_blank">2、 云栖社区巨献：准受用！最通俗易懂的深度学习入门</a>
 				</li>
-				
+
 	    	</ul>
 		</div>
 	</div>
