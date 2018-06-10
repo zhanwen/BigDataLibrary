@@ -38,7 +38,7 @@
 </div>
 </div>
 <!--main-->
-<div class="main_btm">
+<div class="main_bg">
 <div class="wrap">
 <div class="main">
 	<div class="about-us">
@@ -64,7 +64,7 @@
 					<div class="clear"> </div>
 					<div class="specials-grids">
 						<div class="special-grid">
-							<img src="${pageContext.request.getContextPath()}/static/images/new/pic2.jpg" title="image-name">
+							<img src="${pageContext.request.getContextPath()}/static/images/new/BigData_white.png" title="image-name">
 							<a href="#">大数据</a>
 							<p>
 								海量数据的非结构化存储、实时查询检索
@@ -76,7 +76,7 @@
 							<p>流技术应用等。</p>
 						</div>
 						<div class="special-grid">
-							<img src="${pageContext.request.getContextPath()}/static/images/new/pic3.jpg" title="image-name">
+							<img src="${pageContext.request.getContextPath()}/static/images/new/IoT.png" title="image-name">
 							<a href="#">物联网</a>
 							<p>移动互联网技术的研发与应用、移动互联</p>
 							<p>网平台实践与应用等。</p>
@@ -84,7 +84,7 @@
 							<p>术、移动互联网技术开发与应用等。</p>
 						</div>
 						<div class="special-grid spe-grid">
-							<img src="${pageContext.request.getContextPath()}/static/images/new/pic4.jpg" title="image-name">
+							<img src="${pageContext.request.getContextPath()}/static/images/new/machine-learning.jpg" title="image-name">
 							<a >机器学习</a>
 							<p>主要从事神经网络、分词、半监督学习、聚类集成、推荐算法、知识库等模型构造，在此方面积累了较丰富的经验，具备了较好研究基础。 </p>
 						</div>

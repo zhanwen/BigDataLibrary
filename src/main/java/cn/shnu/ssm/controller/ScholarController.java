@@ -58,6 +58,12 @@ public class ScholarController {
         modelAndView.setViewName("scholar/page2016");
         return modelAndView;
     }
+    @RequestMapping("researchPages/page2017")
+    public ModelAndView page2017() throws Exception{
+        ModelAndView modelAndView = new ModelAndView();
+        modelAndView.setViewName("scholar/page2017");
+        return modelAndView;
+    }
 
 
     @RequestMapping("academicDissertations")

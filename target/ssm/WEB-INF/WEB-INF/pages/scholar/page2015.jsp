@@ -18,6 +18,9 @@
 		.second{
 			margin-left: 15px;
 		}
+		.between_ol li{
+			padding-top: 10px;
+		}
 	</style>
 </head>
 <body>
@@ -65,8 +68,12 @@
 								<br />
 								<span><strong>2015年</strong></span>
 								<br>
-								<ol>
-									<li>Qin Zhao*, Cheng Wang, Changjun Jiang. HSim: A Novel Method on Similarity Computation by Hybrid Measure. The Proceedings of 2015 IEEE International Conference on Information and Communication Systems (ICICS), pp. 160-165, 2015. (EI) </li>
+								<ol class="between_ol">
+									<li><strong style="color: #c7254e">Qin Zhao*</strong>, Cheng Wang, Changjun Jiang. HSim: A Novel Method on Similarity Computation by Hybrid Measure. The Proceedings of 2015 IEEE International Conference on Information and Communication Systems (ICICS), pp. 160-165, 2015. (EI) </li>
+									<li><strong style="color: #c7254e">Q. Ni</strong>, A.B. Garcı́a Hernando and I.P. de la Cruz. “The elderly’s independent living in smart homes: A characterization of activities and sensing infrastructure survey to facilitate services development.” Sensors. 2015, 15(5). pp.11312-11362. (SCI检索) </li>
+									<li>Meizi Li, Yang Xiang, <strong style="color: #c7254e">Bo Zhang*</strong>, and Zhenhua Huang. A Sentiment Delivering Estimate Scheme based on Trust Chain in Mobile social network, Mobile Information Systems, 2015(4):1-20 (SCI: 000364098100001) </li>
+									<li><strong style="color: #c7254e">张波*</strong>, 黄震华, 李美子, 向阳. 一种社会网络服务协作决策的竞标组织方法[J]. 电子学报, 2015, 43(4): 625-630（EI Journal: 20152701003304） </li>
+									<li><strong style="color: #c7254e">Bo Zhang</strong>, Qianqian Song, Jianhua Ding, Liang Wang. A Trust based Sentiment Delivering Calculation Method in Microblog, International Journal of Services Technology and Management, Nos. 4/5/6, 2015: 185-198(EI Journal: 20160201785001) </li>
 								</ol>
 							</div>
                         </div>
@@ -83,7 +90,8 @@
                                 <li><a href="${pageContext.request.getContextPath()}/scholar/softwareCopyright">软件著作权</a> </li>
                                 <li><a href="${pageContext.request.getContextPath()}/scholar/researchPages">学术论文</a> </li>
                                 <li>
-									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages">2017年</a></li>
+									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages">2018年</a></li>
+									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2017">2017年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2016">2016年</a></li>
 									<li class="second"><a style="color: red" href="${pageContext.request.getContextPath()}/scholar/researchPages/page2015">2015年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2014">2014年</a></li>

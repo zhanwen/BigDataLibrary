@@ -15,6 +15,9 @@
 		.list_xueshu_content ol li{
 			color: #595959;
 		}
+		.between_ol li{
+			padding-top: 10px;
+		}
 	</style>
 </head>
 <body>
@@ -60,13 +63,13 @@
 							<span style="font-family: 微软雅黑;"><span style="font-size: 26px;"><strong>软件著作权：</strong></span></span><br>
 							<div class="list_xueshu_content">
 								<br />
-								<ol>
-									<li>张波,胡志鹏.海量数据智能管理优化分析系统V1.0. 软件登记号:2017SR429332, 2017-08-07.</li>
-									<li>张波,胡志鹏,金玉鹏,王娇燕.大数据存储与实时查询分析系统V1.0. 软件登记号:2017SR428930, 2017-08-07.</li>
-									<li>张波.智能孕妇管理与分析软件V1.0. 软件登记号:2016SR357642, 2016-12-07.</li>
-									<li>张波.智能营养健康信息数据采集与解析软件V1.0. 软件登记号:2016SR140370, 2016-06-18.</li>
-									<li>张波.智能网络医疗会诊系统V1.0. 软件登记号:2015SR016729, 2014-04-10.</li>
-									<li>张波.一种面向微薄的用户关系及倾向分析软件V1.0. 软件登记号:2014SR135020, 2014-04-10.</li>
+								<ol class="between_ol">
+									<li><strong style="color: #c7254e">张波</strong>,胡志鹏.海量数据智能管理优化分析系统V1.0. 软件登记号:2017SR429332, 2017-08-07.</li>
+									<li><strong style="color: #c7254e">张波</strong>,胡志鹏,金玉鹏,王娇燕.大数据存储与实时查询分析系统V1.0. 软件登记号:2017SR428930, 2017-08-07.</li>
+									<li><strong style="color: #c7254e">张波</strong>.智能孕妇管理与分析软件V1.0. 软件登记号:2016SR357642, 2016-12-07.</li>
+									<li><strong style="color: #c7254e">张波</strong>.智能营养健康信息数据采集与解析软件V1.0. 软件登记号:2016SR140370, 2016-06-18.</li>
+									<li><strong style="color: #c7254e">张波</strong>.智能网络医疗会诊系统V1.0. 软件登记号:2015SR016729, 2014-04-10.</li>
+									<li><strong style="color: #c7254e">张波</strong>.一种面向微薄的用户关系及倾向分析软件V1.0. 软件登记号:2014SR135020, 2014-04-10.</li>
 								</ol>
 							</div>
                         </div>

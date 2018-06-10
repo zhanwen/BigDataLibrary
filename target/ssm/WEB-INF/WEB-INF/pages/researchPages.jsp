@@ -18,6 +18,9 @@
 		.second{
 			margin-left: 15px;
 		}
+		.between_ol li{
+			padding-top: 10px;
+		}
 	</style>
 </head>
 <body>
@@ -63,11 +66,12 @@
 							<span style="font-family: 微软雅黑;"><span style="font-size: 26px;"><strong>学术论文:</strong></span></span><br>
 							<div class="list_xueshu_content">
 								<br />
-								<span><strong>2017年</strong></span>
+								<span><strong>2018年</strong></span>
 								<br>
-								<ol>
-									<li>Zhang Bo, Zhang Huan, Li Meizi*, Zhao Qin, Huang Jifeng. Trust Traversal: A Trust Link Detection Scheme in Social Network, Computer Networks, Volume 120, 19 June 2017, Pages 105–125 (SCI:000401877300008)</li>
-									<li>Zhang Bo; Yong Ruihan; Li Meizi*, Pan Jianguo, Huang Jifeng. A Hybrid Trust Evaluation Framework for E-commerce in Online Social Network: A Factor Enrichment Perspective, IEEE Access, 2017,Volume 5: 7080 - 7096 (SCI:000403140800028) </li>
+								<ol class="between_ol">
+									<li><strong style="color: #c7254e">Zhang Bo*</strong>, Zhang Qian, Huang Zhenhua, Li Meizi, Li Luqun. A Multi-Criteria Collusive Fraud Organization Detection Scheme for Reputation Aggregation in Social Networks, Future Generation Computer Systems, Volume 79, Part 3, February 2018, Pages 797-814 (SCI: 000418973500003) </li>
+									<li><strong style="color: #c7254e">Qin Zhao</strong>, Cheng Wang, Pengwei Wang, Mengchu Zhou, Changjun Jiang*. A Novel Method on Information Recommendation via Hybrid Similarity. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2018, 48(3): 448-459. (SCI) </li>
+									<li>Li Meizi, Xiang Yang, <strong style="color: #c7254e">Zhang Bo*</strong>, Wei Fazhuan, Song Qianqian. A Novel Organizing Scheme of Single Topic User Group based on Trust Chain Model in Social Network, International Journal of Communication Systems. 2018.1 (SCI: 000417924600010) </li>
 								</ol>
 							</div>
                         </div>
@@ -84,7 +88,8 @@
                                 <li><a href="${pageContext.request.getContextPath()}/scholar/softwareCopyright">软件著作权</a> </li>
                                 <li><a href="${pageContext.request.getContextPath()}/scholar/researchPages">学术论文</a> </li>
                                 <li>
-									<li class="second"><a style="color: red" href="${pageContext.request.getContextPath()}/scholar/researchPages">2017年</a></li>
+									<li class="second"><a style="color: red" href="${pageContext.request.getContextPath()}/scholar/researchPages">2018年</a></li>
+									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2017">2017年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2016">2016年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2015">2015年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2014">2014年</a></li>

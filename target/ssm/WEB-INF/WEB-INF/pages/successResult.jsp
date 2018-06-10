@@ -42,6 +42,15 @@
 <div class="main_btm">
 <div class="wrap">
 <div class="main">
+
+	<%--<div class="about-header">--%>
+		<%--<h3>获奖</h3>--%>
+		<%--<div class="clear"> </div>--%>
+	<%--</div>--%>
+	<%--<div class="about-info">--%>
+		<%--<p><span style="font-size: 14px;">&nbsp;&nbsp;国家自然科学基金面上项目(61572326)：动态社交网络中群体情感演化计算与分析关键技术研究，2016.1-2019.12，项目负责人：张波 </span></p>--%>
+
+	<%--</div>--%>
 					<%--<div class="services">--%>
 					<%--<div class="services-header">--%>
 						<%--<h3>成果</h3>--%>
@@ -73,7 +82,7 @@
 						<%--<!--</div>-->--%>
 						 <%--<div class="clear"> </div>--%>
 					<%--</div>--%>
-				
+
 				<div class="specials">
 					<div class="specials-heading">
 						<h3>获奖</h3>
@@ -82,22 +91,20 @@
 					<div class="clear"> </div>
 					<div class="specials-grids">
 						<div class="special-grid">
-							<img src="${pageContext.request.getContextPath()}/static/images/new/pic4.jpg" title="image-name">
-							<a  >XXX比赛</a>
-							<p>在第八十九届XXX比赛中，某某</p>
-							<p>某同学获得超奖</p>
+							<%--<img src="${pageContext.request.getContextPath()}/static/images/new/BigData_white.png" title="image-name">--%>
+							<a  >数学建模比赛</a>
+							<p>第八十九届数学建模比赛中，获得三等奖</p>
+							<p></p>
 						</div>
 						<div class="special-grid">
-							<img src="${pageContext.request.getContextPath()}/static/images/new/pic3.jpg" title="image-name">
-							<a >XXX比赛</a>
-							<p>在第八十九届XXX比赛中，某某</p>
-							<p>某同学获得超奖</p>
+							<%--<img src="${pageContext.request.getContextPath()}/static/images/new/IoT.png" title="image-name">--%>
+							<a >ACM比赛</a>
+							<p>第二十八届ACM比赛中，获得三等奖</p>
 						</div>
 						<div class="special-grid spe-grid">
-							<img src="${pageContext.request.getContextPath()}/static/images/new/pic2.jpg" title="image-name">
-							<a  >XXX比赛</a>
-							<p>在第八十九届XXX比赛中，某某</p>
-							<p>某同学获得超奖</p>
+							<%--<img src="${pageContext.request.getContextPath()}/static/images/new/machine-learning.jpg" title="image-name">--%>
+							<a  >电子设计大赛</a>
+							<p>第十三届电子设计大赛中，获得三等奖</p>
 						</div>
 						<div class="clear"> </div>
 					</div>

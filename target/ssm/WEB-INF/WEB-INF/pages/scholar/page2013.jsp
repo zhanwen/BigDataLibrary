@@ -66,7 +66,11 @@
 								<span><strong>2013年</strong></span>
 								<br>
 								<ol>
-									<%--<li>Zhengshen Jiang, Hongzhi Liu*, Bin Fu, Zhonghai Wu*. Generalized Ambiguity Decompositions for Classification with Applications in Active Learning and Unsupervised Ensemble Pruning, Thirty-First AAAI Conference on Artificial Intelligence (AAAI 2017), February 4-9, 2017, San Francisco, California, USA.（CCF A类） </li>--%>
+									<li><strong style="color: #c7254e">Bo Zhang*</strong>, Meizi LI, Yang XIANG. Recommendation Trust Chain and its Measurement in Social Network Site, Journal of Computational Information Systems 9: 18 (2013) 7445–7452（EI Journal: 2134416914526）</li>
+									<li><strong style="color: #c7254e">Bo Zhang</strong>, XIAOSHENG PAN*, YANG XIANG, TAO PAN. Belief and Reputation Based Recommended Trust Computation in Wireless Sensor Networks, Sensors & Transducers, Vol. 155, Issue 8, August 2013, pp. 26-33'（EI Journal: 20134616967908）</li>
+									<li><strong style="color: #c7254e">张波*</strong>,向阳,黄震华. 一种基于语义的决策服务协作自组织方法. 控制与决策, 2013, Vol. 28  Issue (9): 1414-1418（EI Journal: 2134416914225）</li>
+									<li>Zhe Zhao, Yang Xiang, <strong style="color: #c7254e">Bo Zhang*</strong>. A Novel Public Opinion Mining Method on Microblog Platform, Journal of Applied Sciences, 2013, 16(13)（EI Journal: 20134316881142）</li>
+									<li><strong style="color: #c7254e">张波*</strong>，向阳，黄震华.一种社交网络中的个体间推荐信任度计算方法[J].南京航空航天大学学报,2013,45(4) </li>
 								</ol>
 							</div>
                         </div>
@@ -83,7 +87,8 @@
                                 <li><a href="${pageContext.request.getContextPath()}/scholar/softwareCopyright">软件著作权</a> </li>
                                 <li><a href="${pageContext.request.getContextPath()}/scholar/researchPages">学术论文</a> </li>
                                 <li>
-									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages">2017年</a></li>
+									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages">2018年</a></li>
+									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2017">2017年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2016">2016年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2015">2015年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2014">2014年</a></li>

@@ -18,6 +18,9 @@
 		.second{
 			margin-left: 15px;
 		}
+		.between_ol li{
+			padding-top: 10px;
+		}
 	</style>
 </head>
 <body>
@@ -65,10 +68,19 @@
 								<br />
 								<span><strong>2016年</strong></span>
 								<br>
-								<ol>
-									<li>Bo Zhang, Qianqian Song, Tao Yang*, Zhonghua Zheng, Huan Zhang A fuzzy collusive attack detection mechanism for reputation aggregation in mobile social network: a trust relationship based perspective, Mobile Information Systems, 2016 (SCI: 000373498500001)</li>
-									<li>Qin Zhao, Yuan He, Changjun Jiang*, Pengwei Wang, Man Qi, Maozhen Li. Integration of Link and Semantic Relations for Information Discovery and Recommendation. Computing and Informatics, 2016, 35(1): 30-54. (SCI) </li>
-									<li>Qin Zhao, Cheng Wang, Pengwei Wang. Novel Method on Community-based User Recommendation on Social Network. Computer Science, 2016, 43(5): 198-203. (CSCD)</li>
+								<ol class="between_ol">
+									<li><strong style="color: #c7254e">Bo Zhang</strong>, Qianqian Song, Tao Yang*, Zhonghua Zheng, Huan Zhang A fuzzy collusive attack detection mechanism for reputation aggregation in mobile social network: a trust relationship based perspective, Mobile Information Systems, 2016 (SCI: 000373498500001)</li>
+									<li><strong style="color: #c7254e">Qin Zhao</strong>, Yuan He, Changjun Jiang*, Pengwei Wang, Man Qi, Maozhen Li. Integration of Link and Semantic Relations for Information Discovery and Recommendation. Computing and Informatics, 2016, 35(1): 30-54. (SCI) </li>
+									<li><strong style="color: #c7254e">Qin Zhao</strong>, Cheng Wang, Pengwei Wang. Novel Method on Community-based User Recommendation on Social Network. Computer Science, 2016, 43(5): 198-203. (CSCD)</li>
+									<li><strong style="color: #c7254e">Q. Ni</strong>, T. Patterson, I. Cleland and C.D. Nugent. “Dynamic detection of window starting positions and its implementation within an activity recognition framework.” Elsevier, Journal of Biomedical Informatics. 2016，62（8）. pp.171-180. (SCI检索)</li>
+									<li><strong style="color: #c7254e">Q. Ni</strong>, A.B. Garcı́a Hernando and I.P. de la Cruz. “A Context-aware System Infrastructure for Monitoring Activities of Daily Living in Smart Home.” Journal of Sensors. vol. 2016, Article ID 9493047. DOI:10.1155/2016/9493047, 2016. (SCI检索)</li>
+									<li><strong style="color: #c7254e">Q. Ni</strong>, I.P. de la Cruz and A.B. Garcı́a Hernando. “A foundational ontology-based model for human activity representation in smart homes.” Journal of Ambient Intelligence and Smart Environments. 2016, 8(1). pp.47-61. (SCI检索)</li>
+									<li><strong style="color: #c7254e">Lian, J.</strong>, M. P. McGuire. (2016) “Mining Persistent and Dynamic Spatio-Temporal Change in Global Climate Data.” International Conference on Information Technology: New Generations. April 2016, Las Vegas, Nevada, USA.</li>
+									<li>McGuire, M. P., M. Roberge, and <strong style="color: #c7254e">J. Lian.</strong> (2016) “Channeling the water data deluge: a system for flexible integration and analysis of hydrologic data.” International Journal of Digital Earth. 9:3 272-299.</li>
+									<li>Meizi Li, Yang Xiang, <strong style="color: #c7254e">Bo Zhang*</strong>. A trust evaluation scheme for complex links in a social network: a link strength perspective. Applied Intelligence 44.4(2016):969-987. (SCI: 000376301600014)</li>
+									<li>Wang Dong, Wang Peng, Li Meizi, <strong style="color: #c7254e">Zhang Bo*</strong>. A Topic Space Oriented User Group Discovering Scheme in Social Network: a Trust Chain based Interest Measuring Perspective, Scientific Programming, 2016 (SCI: 000373471800001)</li>
+									<li><strong style="color: #c7254e">Bo Zhang</strong>, Song Qianqian, Ruxiang Peng, Zhenhua Huang, Qian Xu. A Novel Community Influence Evaluation Scheme based on Information Propagation in Social Network, International Journal of Computing Science and Mathematics, Vol. 7, No. 1 (2016) pp. 29 - 41 (EI Journal: 20162102410852)</li>
+									<li><strong style="color: #c7254e">Zhang Bo</strong>, Hu Sihui, Peng Ruxiang, Lu Yajun. Semantic pheromone walking: A semantic clue discovering scheme based on concept relatedness in open domain knowledge network, Proceedings of the 2016 IEEE 11th Conference on Industrial Electronics and Applications, 2016, 1807-1812. (EI CA: 20164803076585)</li>
 								</ol>
 							</div>
                         </div>
@@ -85,7 +97,8 @@
                                 <li><a href="${pageContext.request.getContextPath()}/scholar/softwareCopyright">软件著作权</a> </li>
                                 <li><a href="${pageContext.request.getContextPath()}/scholar/researchPages">学术论文</a> </li>
                                 <li>
-									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages">2017年</a></li>
+									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages">2018年</a></li>
+									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2017">2017年</a></li>
 									<li class="second"><a style="color: red" href="${pageContext.request.getContextPath()}/scholar/researchPages/page2016">2016年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2015">2015年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2014">2014年</a></li>

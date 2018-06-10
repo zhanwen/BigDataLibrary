@@ -33,14 +33,23 @@ public class ScholarCtroller {
     }
 
     @RequestMapping("researchPages")
-    public ModelAndView researchPages2017(HttpServletRequest request) {
+    public ModelAndView researchPages2018(HttpServletRequest request) {
         ModelAndView modelAndView = new ModelAndView();
         request.getSession().setAttribute("link","research");
-        request.getSession().setAttribute("pages","2017");
+        request.getSession().setAttribute("pages","2018");
         modelAndView.setViewName("/school/researchPages");
         return modelAndView;
     }
-    @RequestMapping("researchPages/2016")
+
+    @RequestMapping("researchPages/page2017")
+    public ModelAndView researchPages2017(HttpServletRequest request) {
+        ModelAndView modelAndView = new ModelAndView();
+        request.getSession().setAttribute("pages","2017");
+        modelAndView.setViewName("/school/page2017");
+        return modelAndView;
+    }
+
+    @RequestMapping("researchPages/page2016")
     public ModelAndView researchPages2016(HttpServletRequest request) {
         ModelAndView modelAndView = new ModelAndView();
         request.getSession().setAttribute("pages","2016");
@@ -48,7 +57,7 @@ public class ScholarCtroller {
         return modelAndView;
     }
 
-    @RequestMapping("researchPages/2015")
+    @RequestMapping("researchPages/page2015")
     public ModelAndView researchPages2015(HttpServletRequest request) {
         ModelAndView modelAndView = new ModelAndView();
         request.getSession().setAttribute("pages","2015");
@@ -56,7 +65,7 @@ public class ScholarCtroller {
         return modelAndView;
     }
 
-    @RequestMapping("researchPages/2014")
+    @RequestMapping("researchPages/page2014")
     public ModelAndView researchPages2014(HttpServletRequest request) {
         ModelAndView modelAndView = new ModelAndView();
         request.getSession().setAttribute("pages","2014");
@@ -64,7 +73,7 @@ public class ScholarCtroller {
         return modelAndView;
     }
 
-    @RequestMapping("researchPages/2013")
+    @RequestMapping("researchPages/page2013")
     public ModelAndView researchPages2013(HttpServletRequest request) {
         ModelAndView modelAndView = new ModelAndView();
         request.getSession().setAttribute("pages","2013");

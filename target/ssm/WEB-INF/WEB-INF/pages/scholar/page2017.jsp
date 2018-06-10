@@ -18,6 +18,9 @@
 		.second{
 			margin-left: 15px;
 		}
+		.between_ol li{
+			padding-top: 10px;
+		}
 	</style>
 </head>
 <body>
@@ -38,7 +41,7 @@
 				<li ><a href='${pageContext.request.getContextPath()}/direction'><span>研究方向</span></a></li>
 				<li><a href='${pageContext.request.getContextPath()}/team'><span>科研团队</span></a></li>
 				<li><a href='${pageContext.request.getContextPath()}/researchProject'><span>科研项目</span></a></li>
-				<li  class='active'><a href='${pageContext.request.getContextPath()}/scholar/patent'><span>学术成果</span></a></li>
+				<li class='active'><a href='${pageContext.request.getContextPath()}/scholar/patent'><span>学术成果</span></a></li>
 				<li><a href='${pageContext.request.getContextPath()}/successResult'><span>竞赛获奖</span></a></li>
 				<li class='last'><a href='${pageContext.request.getContextPath()}/download'><span>下载中心</span></a></li>
 				<div class="clear"></div>
@@ -63,14 +66,16 @@
 							<span style="font-family: 微软雅黑;"><span style="font-size: 26px;"><strong>学术论文:</strong></span></span><br>
 							<div class="list_xueshu_content">
 								<br />
-								<span><strong>2013年</strong></span>
+								<span><strong>2017年</strong></span>
 								<br>
-								<ol>
-									<li><strong style="color: #c7254e">Bo Zhang*</strong>, Meizi LI, Yang XIANG. Recommendation Trust Chain and its Measurement in Social Network Site, Journal of Computational Information Systems 9: 18 (2013) 7445–7452（EI Journal: 2134416914526）</li>
-									<li><strong style="color: #c7254e">Bo Zhang</strong>, XIAOSHENG PAN*, YANG XIANG, TAO PAN. Belief and Reputation Based Recommended Trust Computation in Wireless Sensor Networks, Sensors & Transducers, Vol. 155, Issue 8, August 2013, pp. 26-33'（EI Journal: 20134616967908）</li>
-									<li><strong style="color: #c7254e">张波*</strong>,向阳,黄震华. 一种基于语义的决策服务协作自组织方法. 控制与决策, 2013, Vol. 28  Issue (9): 1414-1418（EI Journal: 2134416914225）</li>
-									<li>Zhe Zhao, Yang Xiang, <strong style="color: #c7254e">Bo Zhang*</strong>. A Novel Public Opinion Mining Method on Microblog Platform, Journal of Applied Sciences, 2013, 16(13)（EI Journal: 20134316881142）</li>
-									<li><strong style="color: #c7254e">张波*</strong>，向阳，黄震华.一种社交网络中的个体间推荐信任度计算方法[J].南京航空航天大学学报,2013,45(4) </li>
+								<ol class="between_ol">
+									<li><strong style="color: #c7254e">Zhang Bo</strong>, Zhang Huan, Li Meizi*, Zhao Qin, Huang Jifeng. Trust Traversal: A Trust Link Detection Scheme in Social Network, Computer Networks, Volume 120, 19 June 2017, Pages 105–125 (SCI:000401877300008)</li>
+									<li><strong style="color: #c7254e">Zhang Bo</strong>; Yong Ruihan; Li Meizi*, Pan Jianguo, Huang Jifeng. A Hybrid Trust Evaluation Framework for E-commerce in Online Social Network: A Factor Enrichment Perspective, IEEE Access, 2017, Volume 5: 7080 - 7096 (SCI: 000403140800028)</li>
+									<li><strong style="color: #c7254e">Lian, J</strong>., M. P. McGuire, and T. W. Moore (2017) “FunnelCloud: a cloud-based system for exploring tornado events.” International Journal of Digital Earth.</li>
+									<li>Roberge, Martin C., M. P. Mcguire, and <strong style="color: #c7254e">J. Lian</strong>. HydroCloud: A Web Application for Exploring Stream Gage Data. Journal of Open Research Software 5.2(2017).</li>
+									<li>Patterson, N. Khan, S. McClean, C.D. Nugent, S. Zhang, I. Cleland and <strong style="color: #c7254e">Q. Ni</strong>. “Sensor-Based Change Detection for Timely Solicitation of User Engagement.” IEEE Transaction on Mobile Computing. 2017, 16(10). pp.2889-2900. (SCI检索)</li>
+									<li><strong style="color: #c7254e">Bo Zhang</strong>, Cui Mu, Qin Zhao, Zhangjie Peng, Junhong Ding, Bo Liu, "A Multidimensional Comprehensive Recommendation Method Based on Social Network", 2017 Fifth International Conference on Advanced Cloud and Big Data (CBD), vol. 00, no. , pp. 194-199, 2017, doi:10.1109/CBD.2017.41</li>
+
 								</ol>
 							</div>
                         </div>
@@ -88,11 +93,11 @@
                                 <li><a href="${pageContext.request.getContextPath()}/scholar/researchPages">学术论文</a> </li>
                                 <li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages">2018年</a></li>
-									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2017">2017年</a></li>
+									<li class="second"><a style="color: red"  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2017">2017年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2016">2016年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2015">2015年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2014">2014年</a></li>
-									<li class="second"><a style="color: red" href="${pageContext.request.getContextPath()}/scholar/researchPages/page2013">2013年</a></li>
+									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2013">2013年</a></li>
 								</li>
 								<li><a href="${pageContext.request.getContextPath()}/scholar/academicDissertations">学位论文</a> </li>
                             </ul>

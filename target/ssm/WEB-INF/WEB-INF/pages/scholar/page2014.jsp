@@ -18,6 +18,9 @@
 		.second{
 			margin-left: 15px;
 		}
+		.between_ol li{
+			padding-top: 10px;
+		}
 	</style>
 </head>
 <body>
@@ -65,10 +68,13 @@
 								<br />
 								<span><strong>2014年</strong></span>
 								<br>
-								<ol>
-									<li>Zhang Bo*, Zhenhua Huang, Yang Xiang. A novel multiple-level trust management framework for wireless sensor networks. Computer Networks, 72 (2014): 45-61. (SCI:000342540900004) </li>
-									<li>Bo Zhang*, Zhenhua Huang, Jian Yu, Yang Xiang. Trust computation for Multiple Routes Recommendation in Social Network Sites. Security and Communication Networks. 2014.1(SCI:000345633500003) </li>
-									<li>Zhang Bo, Zhenhua Huang*, Ziming Zheng. Self-Organized Service Negotiation for Collaborative Decision Making. The Scientific World Journal, 2014.8. (SCI: 000343455500001) </li>
+								<ol class="between_ol">
+									<li><strong style="color: #c7254e">Zhang Bo*</strong>, Zhenhua Huang, Yang Xiang. A novel multiple-level trust management framework for wireless sensor networks. Computer Networks, 72 (2014): 45-61. (SCI:000342540900004) </li>
+									<li><strong style="color: #c7254e">Bo Zhang*</strong>, Zhenhua Huang, Jian Yu, Yang Xiang. Trust computation for Multiple Routes Recommendation in Social Network Sites. Security and Communication Networks. 2014.1(SCI:000345633500003) </li>
+									<li><strong style="color: #c7254e">Zhang Bo</strong>, Zhenhua Huang*, Ziming Zheng. Self-Organized Service Negotiation for Collaborative Decision Making. The Scientific World Journal, 2014.8. (SCI: 000343455500001) </li>
+									<li><strong style="color: #c7254e">Zhang Bo*</strong>, Pan Xiaosheng, Pan Jianguo. Semantic Social Service Organization Mechanism in Cyber Physical System [J]. Transactions of Nanjing University of Aeronautics and Astronautics, 2014, 4: 013.（EI Journal: 201443121064） </li>
+									<li><strong style="color: #c7254e">Zhang Bo</strong>, Song Feng, Yuan Hailei, Li Hao.A Relationship based Collusive Attack Detection Mechanism for Reputation Aggregation in Social Network, International Conference of Mechatronics, Electronic, Industrial and Control Engineering, 2014 (EI: 20151700775347) </li>
+									<li>Song Qianqian, <strong style="color: #c7254e">Zhang Bo*</strong>, Yang Tao, Hu Sihui.A Community Influence Prediction Calculation Method based Link Similarity in Social Network, International Conference of Mechatronics, Electronic, Industrial and Control Engineering, 2014 (EI: 20151700775356) </li>
 								</ol>
 							</div>
                         </div>
@@ -85,7 +91,8 @@
                                 <li><a href="${pageContext.request.getContextPath()}/scholar/softwareCopyright">软件著作权</a> </li>
                                 <li><a href="${pageContext.request.getContextPath()}/scholar/researchPages">学术论文</a> </li>
                                 <li>
-									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages">2017年</a></li>
+									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages">2018年</a></li>
+									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2017">2017年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2016">2016年</a></li>
 									<li class="second"><a  href="${pageContext.request.getContextPath()}/scholar/researchPages/page2015">2015年</a></li>
 									<li class="second"><a style="color: red" href="${pageContext.request.getContextPath()}/scholar/researchPages/page2014">2014年</a></li>
