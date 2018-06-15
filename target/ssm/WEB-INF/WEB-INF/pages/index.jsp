@@ -53,7 +53,7 @@
 </div>
 </div>
 </div>
-<div class="copyrights">Collect from <a href="http://www.cssmoban.com/" >Website Template</a></div>
+
 <!------ Slider_bg ------------>
 <div class="slider_bg">
 <div class="wrap">
@@ -63,7 +63,7 @@
 	            <div id="slider" class="nivoSlider">
 	                <img src="${pageContext.request.getContextPath()}/static/images/new/banner1.jpg" data-thumb="images/1.jpg" alt="" />
 	                <img src="${pageContext.request.getContextPath()}/static/images/new/banner2.jpg" data-thumb="images/2.jpg" alt="" />
-	                <img src="${pageContext.request.getContextPath()}/static/images/new/banner3.jpg" data-thumb="images/3.jpg" alt="" />
+	                <img src="${pageContext.request.getContextPath()}/static/images/new/xy2.jpg" data-thumb="images/3.jpg" alt="" />
 	            </div>
 	        </div>
 	      </div>
