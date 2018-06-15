@@ -7,46 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f5da609-3653-48be-aab7-477f919e0929" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2017.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/images/new/BigData_white.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/images/new/IoT.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/images/new/big-data-definition.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/images/new/bigdata.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/images/new/iot-history_0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/images/new/iot_things.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/images/new/machine-learning.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/images/new/ml.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/images/new/ml2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/images/new/ml3.jpg" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/ScholarController.java" afterPath="$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/ScholarController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/ScholarCtroller.java" afterPath="$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/ScholarCtroller.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/direction.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/direction.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchPages.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchPages.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchProject.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchProject.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2013.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2013.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2014.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2014.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2015.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2015.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2016.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/page2016.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/softwareCopyright.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/softwareCopyright.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successResult.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successResult.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/images/new/staff1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/shnu/ssm/controller/ScholarController.class" afterPath="$PROJECT_DIR$/target/classes/cn/shnu/ssm/controller/ScholarController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/shnu/ssm/controller/ScholarCtroller.class" afterPath="$PROJECT_DIR$/target/classes/cn/shnu/ssm/controller/ScholarCtroller.class" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/classes/cn/shnu/ssm/controller/ScholarController.class" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/classes/cn/shnu/ssm/controller/ScholarController.class" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/classes/cn/shnu/ssm/controller/ScholarCtroller.class" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/classes/cn/shnu/ssm/controller/ScholarCtroller.class" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/direction.jsp" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/direction.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/researchPages.jsp" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/researchPages.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/researchProject.jsp" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/researchProject.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/scholar.jsp" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/scholar.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/scholar/page2013.jsp" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/scholar/page2013.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/scholar/page2014.jsp" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/scholar/page2014.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/scholar/page2015.jsp" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/scholar/page2015.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/scholar/page2016.jsp" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/scholar/page2016.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/softwareCopyright.jsp" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/softwareCopyright.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/successResult.jsp" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/WEB-INF/pages/successResult.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/static/images/new/staff1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/bigDataDig.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/bigDataDig.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/computerVision.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/computerVision.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/deepLearning.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/deepLearning.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/informationRecommend.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/informationRecommend.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/machineLearn.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/machineLearn.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/nlp.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/nlp.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,57 +24,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="218" column="90" lean-forward="false" selection-start-line="218" selection-start-column="78" selection-end-line="218" selection-end-column="90" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="researchProject.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchProject.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-483">
-              <caret line="51" column="16" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
-              <folding>
-                <marker date="1528627230806" expanded="false" signature="5725:5741" ph="..." />
-                <marker date="1528627230806" expanded="false" signature="5848:5864" ph="..." />
-                <marker date="1528627230806" expanded="false" signature="5965:5981" ph="..." />
-                <marker date="1528627230806" expanded="false" signature="6084:6100" ph="..." />
-                <marker date="1528627230806" expanded="false" signature="6205:6221" ph="..." />
-                <marker date="1528627230806" expanded="false" signature="6322:6338" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="successResult.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successResult.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="106" column="48" lean-forward="false" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
-              <folding>
-                <marker date="1528634197064" expanded="false" signature="1877:1893" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="direction.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/direction.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="66" column="109" lean-forward="false" selection-start-line="66" selection-start-column="96" selection-end-line="66" selection-end-column="109" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -147,13 +64,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/head.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/academicDissertations.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/bigDataDig.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/computerVision.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/deepLearning.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/informationRecommend.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/machineLearn.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/nlp.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2013.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2014.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/scholar/academic2015.jsp" />
@@ -173,6 +83,13 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/softwareCopyright.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/direction.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successResult.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/bigDataDig.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/computerVision.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/deepLearning.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/informationRecommend.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/machineLearn.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/nlp.jsp" />
       </list>
     </option>
   </component>
@@ -211,7 +128,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -286,13 +204,22 @@
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BigDataLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigDataLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="download" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -518,15 +445,15 @@
       <workItem from="1528264618794" duration="5030000" />
       <workItem from="1528551656866" duration="3444000" />
       <workItem from="1528626719935" duration="7756000" />
+      <workItem from="1529029590138" duration="782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36654000" />
+    <option name="totallyTimeSpent" value="37436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="23" width="1382" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.50289434" order="7" side_tool="true" content_ui="tabs" />
@@ -539,7 +466,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23404256" sideWeight="0.49710566" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23404256" sideWeight="0.49710566" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28936172" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -550,7 +477,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -694,20 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/MangerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/ProjectController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/ResearchController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -743,56 +656,6 @@
         <state relative-caret-position="270">
           <caret line="40" column="41" lean-forward="false" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="38" column="88" lean-forward="false" selection-start-line="38" selection-start-column="88" selection-end-line="38" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/bigDataDig.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="30" column="96" lean-forward="false" selection-start-line="30" selection-start-column="96" selection-end-line="30" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/computerVision.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="30" column="88" lean-forward="false" selection-start-line="30" selection-start-column="88" selection-end-line="30" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/deepLearning.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="30" column="88" lean-forward="false" selection-start-line="30" selection-start-column="88" selection-end-line="30" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/informationRecommend.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="29" column="76" lean-forward="false" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/machineLearn.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="30" column="88" lean-forward="false" selection-start-line="30" selection-start-column="88" selection-end-line="30" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/nlp.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="30" column="88" lean-forward="false" selection-start-line="30" selection-start-column="88" selection-end-line="30" selection-end-column="88" />
         </state>
       </provider>
     </entry>
@@ -840,14 +703,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/UploadController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2837">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/ScholarCtroller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
@@ -868,13 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#strong#0;n#li#0;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#1;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#2;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#3;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#4;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -882,14 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="76" column="104" lean-forward="false" selection-start-line="76" selection-start-column="104" selection-end-line="76" selection-end-column="104" />
-          <folding>
-            <element signature="n#style#0;n#strong#0;n#li#0;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#1;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#2;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#3;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#4;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#5;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -897,13 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
           <caret line="72" column="83" lean-forward="false" selection-start-line="72" selection-start-column="83" selection-end-line="72" selection-end-column="83" />
-          <folding>
-            <element signature="n#style#0;n#strong#0;n#li#0;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#1;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#2;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#3;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#4;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -911,20 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
           <caret line="82" column="88" lean-forward="false" selection-start-line="82" selection-start-column="88" selection-end-line="82" selection-end-column="88" />
-          <folding>
-            <element signature="n#style#0;n#strong#0;n#li#0;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#1;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#2;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#3;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#4;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#5;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#6;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#7;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#8;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#9;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#10;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#11;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -932,14 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="76" column="88" lean-forward="false" selection-start-line="76" selection-start-column="88" selection-end-line="76" selection-end-column="88" />
-          <folding>
-            <element signature="n#style#0;n#strong#0;n#li#0;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#1;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#2;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#3;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#4;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#5;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -959,14 +770,7 @@
           <caret line="68" column="82" lean-forward="false" selection-start-line="68" selection-start-column="82" selection-end-line="68" selection-end-column="82" />
           <caret line="67" column="82" lean-forward="false" selection-start-line="67" selection-start-column="82" selection-end-line="67" selection-end-column="82" />
           <caret line="66" column="82" lean-forward="false" selection-start-line="66" selection-start-column="82" selection-end-line="66" selection-end-column="82" />
-          <folding>
-            <element signature="n#style#0;n#strong#0;n#li#0;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#1;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#2;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#3;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#4;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#5;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -974,22 +778,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-764">
           <caret line="71" column="71" lean-forward="true" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="71" />
-          <folding>
-            <element signature="n#style#0;n#strong#0;n#li#0;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#1;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#2;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#3;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#4;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#5;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#6;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#7;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#8;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#9;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#10;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#11;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#12;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#li#13;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1000,7 +789,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
+        <state relative-caret-position="0">
           <caret line="218" column="90" lean-forward="false" selection-start-line="218" selection-start-column="78" selection-end-line="218" selection-end-column="90" />
           <folding />
         </state>
@@ -1008,15 +797,114 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/direction.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="990">
           <caret line="66" column="109" lean-forward="false" selection-start-line="66" selection-start-column="96" selection-end-line="66" selection-end-column="109" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/MangerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1712">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/ProjectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="113" column="94" lean-forward="false" selection-start-line="113" selection-start-column="82" selection-end-line="113" selection-end-column="94" />
+          <folding>
+            <element signature="n#style#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/bigDataDig.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="61" column="94" lean-forward="false" selection-start-line="61" selection-start-column="94" selection-end-line="61" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/computerVision.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="78" column="80" lean-forward="false" selection-start-line="78" selection-start-column="80" selection-end-line="78" selection-end-column="80" />
+          <caret line="79" column="80" lean-forward="false" selection-start-line="79" selection-start-column="80" selection-end-line="79" selection-end-column="80" />
+          <caret line="80" column="80" lean-forward="false" selection-start-line="80" selection-start-column="80" selection-end-line="80" selection-end-column="80" />
+          <caret line="81" column="80" lean-forward="false" selection-start-line="81" selection-start-column="80" selection-end-line="81" selection-end-column="80" />
+          <caret line="82" column="80" lean-forward="false" selection-start-line="82" selection-start-column="80" selection-end-line="82" selection-end-column="80" />
+          <caret line="83" column="80" lean-forward="false" selection-start-line="83" selection-start-column="80" selection-end-line="83" selection-end-column="80" />
+          <caret line="84" column="80" lean-forward="false" selection-start-line="84" selection-start-column="80" selection-end-line="84" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/deepLearning.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="65" column="84" lean-forward="false" selection-start-line="65" selection-start-column="84" selection-end-line="65" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/nlp.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="55" column="30" lean-forward="true" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/machineLearn.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="66" column="39" lean-forward="true" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/download/informationRecommend.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="66" column="43" lean-forward="true" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/shnu/ssm/controller/UploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="55" column="20" lean-forward="false" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successResult.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="142" column="94" lean-forward="false" selection-start-line="142" selection-start-column="82" selection-end-line="142" selection-end-column="94" />
+          <folding>
+            <element signature="e#6738#6744#0#HTML" expanded="true" />
+            <marker date="1528634197064" expanded="false" signature="1877:1893" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/researchProject.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-483">
+        <state relative-caret-position="0">
           <caret line="51" column="16" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
           <folding>
             <marker date="1528627230806" expanded="false" signature="5725:5741" ph="..." />
@@ -1025,16 +913,6 @@
             <marker date="1528627230806" expanded="false" signature="6084:6100" ph="..." />
             <marker date="1528627230806" expanded="false" signature="6205:6221" ph="..." />
             <marker date="1528627230806" expanded="false" signature="6322:6338" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successResult.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="106" column="48" lean-forward="false" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
-          <folding>
-            <marker date="1528634197064" expanded="false" signature="1877:1893" ph="..." />
           </folding>
         </state>
       </provider>

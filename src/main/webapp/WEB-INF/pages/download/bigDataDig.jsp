@@ -27,7 +27,7 @@
 						<li><a href='${pageContext.request.getContextPath()}/team'><span>科研团队</span></a></li>
 						<li><a href='${pageContext.request.getContextPath()}/researchProject'><span>科研项目</span></a></li>
 						<li><a href='${pageContext.request.getContextPath()}/scholar/patent'><span>学术成果</span></a></li>
-						<li class='has-sub'><a href='${pageContext.request.getContextPath()}/successResult'><span>竞赛获奖</span></a></li>
+						<li><a href='${pageContext.request.getContextPath()}/successResult'><span>竞赛获奖</span></a></li>
 						<li class='last active'><a href='${pageContext.request.getContextPath()}/download'><span>下载中心</span></a></li>
 						<div class="clear"></div>
 					</ul>
@@ -58,12 +58,12 @@
 							<div class="other" style="margin-left: 200px">
 								<p>
 									<c:if test="${fileBean.pageNos > 1}">
-										<a href="${pageContext.request.getContextPath()}/new/download?pageNos=1" style="color: #6F6F6F">首页</a>
-										<a href="${pageContext.request.getContextPath()}/new/download?pageNos=${fileBean.pageNos-1}" style="color: #6F6F6F">上一页</a>
+										<a href="${pageContext.request.getContextPath()}/download?pageNos=1" style="color: #6F6F6F">首页</a>
+										<a href="${pageContext.request.getContextPath()}/download?pageNos=${fileBean.pageNos-1}" style="color: #6F6F6F">上一页</a>
 									</c:if>
 									<c:if test="${fileBean.pageNos < fileBean.totalPage}">
-										<a href="${pageContext.request.getContextPath()}/new/download?pageNos=${fileBean.pageNos+1}" style="color: #6F6F6F">下一页</a>
-										<a href="${pageContext.request.getContextPath()}/new/download?pageNos=${fileBean.totalPage}" style="color: #6F6F6F">尾页</a>
+										<a href="${pageContext.request.getContextPath()}/download?pageNos=${fileBean.pageNos+1}" style="color: #6F6F6F">下一页</a>
+										<a href="${pageContext.request.getContextPath()}/download?pageNos=${fileBean.totalPage}" style="color: #6F6F6F">尾页</a>
 									</c:if>
 									<c:if test="${map['bigDataDig'] != 0}">
 										<a style="color: #6F6F6F">第${fileBean.pageNos}页</a>
@@ -76,13 +76,13 @@
 							<div class="categories animated wow slideInUp" data-wow-delay=".5s">
 								<h3>目录</h3>
 								<ul class="cate">
-									<li><a href="${pageContext.request.getContextPath()}/new/download">社交网络</a> <span>(${map['socialNetwork']})</span></li>
-									<li><a href="${pageContext.request.getContextPath()}/new/download/nlp">自然语言处理</a> <span>(${map['npl']})</span></li>
-									<li><a href="${pageContext.request.getContextPath()}/new/download/machineLearn">机器学习</a> <span>(${map['machineLearn']})</span></li>
-									<li><a href="${pageContext.request.getContextPath()}/new/download/informationRecommend">智能信息推荐</a> <span>(${map['informationRecommend']})</span></li>
-									<li><a href="${pageContext.request.getContextPath()}/new/download/deepLearning">深度学习</a> <span>(${map['deepLearn']})</span></li>
-									<li><a href="${pageContext.request.getContextPath()}/new/download/computerVision">计算机视觉</a> <span>(${map['computerVision']})</span></li>
-									<li><a href="${pageContext.request.getContextPath()}/new/download/bigDataDig">大数据挖掘</a> <span>(${map['bigDataDig']})</span></li>
+									<li><a href="${pageContext.request.getContextPath()}/download">社交网络</a> <span>(${map['socialNetwork']})</span></li>
+									<li><a href="${pageContext.request.getContextPath()}/download/nlp">自然语言处理</a> <span>(${map['npl']})</span></li>
+									<li><a href="${pageContext.request.getContextPath()}/download/machineLearn">机器学习</a> <span>(${map['machineLearn']})</span></li>
+									<li><a href="${pageContext.request.getContextPath()}/download/informationRecommend">智能信息推荐</a> <span>(${map['informationRecommend']})</span></li>
+									<li><a href="${pageContext.request.getContextPath()}/download/deepLearning">深度学习</a> <span>(${map['deepLearn']})</span></li>
+									<li><a href="${pageContext.request.getContextPath()}/download/computerVision">计算机视觉</a> <span>(${map['computerVision']})</span></li>
+									<li><a href="${pageContext.request.getContextPath()}/download/bigDataDig">大数据挖掘</a> <span>(${map['bigDataDig']})</span></li>
 								</ul>
 							</div>
 						</div>
@@ -103,7 +103,7 @@
 	<div class="wrap">
 		<div class="footer">
 			<div class="copy">
-				<p class="w3-link">Copyright &copy; 2018 All Rights Reserved 版权所有：上海师范大学大数据和物联网实验室</p>
+				<p class="w3-link">Copyright &copy; 2018 All Rights Reserved 版权所有：智能大数据与物联网实验室</p>
 				<p class="w3-link">联系地址:  上海市奉贤区海湾镇海思路100号</p>
 			</div>
 			<div class="clear"></div>
