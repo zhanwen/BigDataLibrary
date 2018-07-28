@@ -98,7 +98,7 @@
 		<p style="color: dodgerblue; text-align:center">2013级</p>
 		<p>宋倩倩&nbsp;&nbsp;&nbsp;&nbsp;胡斯卉&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://user.qzone.qq.com/1398906513?ADUIN=1398906513&ADSESSION=1524356788&ADTAG=CLIENT.QQ.5563_MyInfo_PersonalInfo.0&ADPUBNO=26785&source=namecardstar">袁海雷</a></p>
 		<p style="color: dodgerblue; text-align:center">2012级</p>
-		<p>韦法转</p>
+		<p>韦法转&nbsp;&nbsp;&nbsp;&nbsp;王亮</p>
 	</nav>
 	</div>
 	<div class="box1">
